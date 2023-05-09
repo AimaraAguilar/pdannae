@@ -1,0 +1,20 @@
+/*selector universal (a todods los elemntos de la pagina) */
+ *{
+    font-family: Haettenschweiler;
+    margin: 0;
+    
+    }
+/*selector por elemento etiqueta */
+    h1{
+      color: red; 
+        font-size: 20px;
+    }
+/*selector por clase */
+    .titulo{
+      color: rgb (46, 145, 121); 
+     font-size: 20px;
+    }
+ /*selector por ID */
+    #imagenPP{
+      width:20px;
+    }
